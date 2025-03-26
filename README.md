@@ -58,7 +58,7 @@ The project demonstrates the effectiveness of linear regression models in predic
 
 ## Contact
 
-For more information or collaboration opportunities, please contact [your-email@example.com].
+For more information or collaboration opportunities, please contact [gaikwadsaurabh2001@gmail.com].
 
 ---
 
